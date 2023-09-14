@@ -1,0 +1,23 @@
+.main {
+  background-color: blueviolet;
+  color: black;
+  min-height: calc(100vh - 8rem);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  width: 100vw;
+}
+
+.names {
+  background-color: blue;
+  color: black;
+  margin-bottom: 1rem;
+  padding: 2rem;
+  box-shadow: 3px 2px 1px red;
+  text-decoration: none;
+  font-size: 50px;
+  border: 1px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
